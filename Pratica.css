@@ -1,0 +1,53 @@
+.tabela{
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+	border-collapse: collapse;
+	width: 50%;
+	height: 0.7%;
+	background-color:  #FFFFFF;
+	text-align: left;
+
+}
+.body{}
+.head{
+	background-color:  #DEE2E6;
+}
+
+.StatusPendente{
+	padding: 7px;
+	padding-right: 21px;
+	padding-left: 21px;
+	color:#FFFFFF;
+	border-radius: 10px;
+	background-color: blue;
+
+}
+.StatusEnviado{
+	padding: 7px;
+	padding-right: 21px;
+	padding-left: 21px;
+	color:#FFFFFF;
+	border-radius: 10px;
+	background-color: #28a745;
+}
+.StatusCancelado{
+	padding: 7px;
+	padding-right: 21px;
+	padding-left: 21px;
+	color:#FFFFFF;
+	border-radius: 10px;
+	background-color:  #E82431;
+
+}
+.See{
+	color: #007bff;
+}
+.Edit{
+	color: #FDDF4C;
+}
+.Del{
+	color: #E82431;
+}
+th,td{
+	padding:0.7%;
+	border-bottom: solid 3px #DEE2E6;
+}
